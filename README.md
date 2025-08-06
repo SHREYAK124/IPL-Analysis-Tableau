@@ -12,5 +12,5 @@ This project visualizes IPL data including top performers, match outcomes, and t
 
 ---
 ## Tools Used
-- *Power BI Desktop*
-- *Excel*
+- **Power BI Desktop**
+- **Excel**
