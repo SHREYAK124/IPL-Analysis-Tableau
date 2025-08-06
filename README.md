@@ -48,4 +48,21 @@ This project visualizes IPL data including top performers, match outcomes, and t
 
  10. How do different teams perform when they choose to bat vs field after winning the toss?
 
+---
+## Process
+The IPL dataset was collected from reliable cricket data sources and then cleaned and pre-processed using Excel to ensure consistency and accuracy. The cleaned data was imported into Tableau, where various visualizations and charts were created. Key metrics like player performance, match results, toss decisions, and seasonal trends were analyzed. The dashboard was designed to be interactive and user-friendly, providing clear insights into IPL statistics.
+
+---
+## Dashboard ScreenShots
+<img width="1602" height="797" alt="IPL Analysis Dashboard 1" src="https://github.com/user-attachments/assets/6afad2da-0a91-494c-b7f0-ed651f22bde0" />
+
+<img width="1609" height="786" alt="IPL Analysis Dashboard 2" src="https://github.com/user-attachments/assets/60ae7097-ffba-4af9-8886-9f7a32710565" />
+
+---
+## Final Conclusion
+The IPL Analysis Dashboard provides a comprehensive view of team and player performances across multiple seasons. It highlights key insights such as top run-scorers, leading wicket-takers, and the impact of toss decisions on match outcomes. The interactive visualizations make it easy for users to explore trends and compare stats. Overall, this project demonstrates how data visualization can uncover meaningful patterns in sports analytics.
+
+
+
+
 
